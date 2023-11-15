@@ -36,10 +36,10 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+          <h3 className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             I enjoy to designing tech websites and digital products. I always
             try my best to make good UI with the best UX.
-          </p>
+          </h3>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit  rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
               Hire Me
